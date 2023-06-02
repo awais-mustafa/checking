@@ -1,1 +1,3 @@
-abcdefg
+Q1.What is a conflict?
+
+Ans: In Git, a conflict refers to a situation where there are conflicting changes made to the same part of a file or project by different people. Imagine you and a classmate are working on a group project and both of you make changes to the same file at the same time. When you try to combine or merge your changes together, Git may encounter a conflict because it doesn't know which changes to keep.
